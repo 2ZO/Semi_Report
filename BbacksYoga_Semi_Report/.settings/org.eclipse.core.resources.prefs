@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/info/sql.sql=UTF-8
+encoding//WebContent/admin_ver2/test.sql=UTF-8
+encoding//src/org/kosta/controller/DispatcherServlet.java=UTF-8
+encoding//src/org/kosta/controller/HandlerMapping.java=UTF-8
+encoding//src/org/kosta/model/etc=UTF-8
